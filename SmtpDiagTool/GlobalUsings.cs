@@ -1,0 +1,9 @@
+﻿global using MailKit;
+global using MailKit.Net.Smtp;
+global using MailKit.Security;
+global using MimeKit;
+global using SmtpDiagTool.Services;
+global using System;
+global using System.Diagnostics;
+global using System.IO;
+global using System.Windows.Forms;
