@@ -40,7 +40,7 @@
             this.logMessages.Multiline = true;
             this.logMessages.Name = "logMessages";
             this.logMessages.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.logMessages.Size = new System.Drawing.Size(776, 361);
+            this.logMessages.Size = new System.Drawing.Size(776, 393);
             this.logMessages.TabIndex = 0;
             // 
             // label1
@@ -54,7 +54,7 @@
             // 
             // clearLogs
             // 
-            this.clearLogs.Location = new System.Drawing.Point(713, 415);
+            this.clearLogs.Location = new System.Drawing.Point(713, 450);
             this.clearLogs.Name = "clearLogs";
             this.clearLogs.Size = new System.Drawing.Size(75, 23);
             this.clearLogs.TabIndex = 2;
@@ -66,7 +66,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 485);
             this.Controls.Add(this.clearLogs);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.logMessages);
